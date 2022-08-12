@@ -1,2 +1,2 @@
-# Everything-R
+# R project
  
